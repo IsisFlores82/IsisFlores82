@@ -16,7 +16,7 @@ Passionate about building interactive experiences, multiplayer systems, and visu
 </td>
 
 <td>
-  <img src="./assets/imsis-gif" width="300px"/>
+  <img src="./assets/Imsis-Gif" width="300px"/>
 </td>
 
 </tr>
