@@ -44,45 +44,32 @@ Passionate about building interactive experiences, multiplayer systems, and visu
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<br>
-
 <h3 align="center">Frontend & UI</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-<br>
-
 <h3 align="center">Backend & Networking</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-<br>
-
 <h3 align="center">Game Development</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,threejs,unreal" />
 </p>
 
-<br>
-
 <h3 align="center">Mobile Development</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-<br>
-
 <h3 align="center">Tools & Design</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
 </p>
 
 ---
-
+<td>
+  <img src="./assets/stars_gif.gif" width="300px"/>
+</td>
