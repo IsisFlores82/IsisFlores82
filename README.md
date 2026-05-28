@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsisFlores82&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsisFlores82&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsisFlores82&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-  
+
 <!--
 **IsisFlores82/IsisFlores82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
