@@ -70,6 +70,9 @@ Passionate about building interactive experiences, multiplayer systems, and visu
 </p>
 
 ---
-<td>
-  <img src="./assets/stars_gif.gif" width="300px"/>
-</td>
+<p align="center">
+  <img src="./assets/stars_gif.gif" width="250px"/>
+  <img src="./assets/stars_gif.gif" width="250px"/>
+  <img src="./assets/stars_gif.gif" width="250px"/>
+</p>
+
