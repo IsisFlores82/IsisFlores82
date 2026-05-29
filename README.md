@@ -6,7 +6,7 @@
 <h1>Hi! I'm Isis Flores~</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78FB3&random=false&width=500&lines=Frontend+Developer;Game+Developer;Multiplayer+Systems+Developer;Interactive+Experiences+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78FB3&random=false&width=500&lines=Full-Stack Web Developer;Game+Developer;Mobile Dev;Interactive+Experiences+Developer" />
 </p>
 
 <p>
